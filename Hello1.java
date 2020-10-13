@@ -23,6 +23,7 @@ class Hello1 {
             System.out.print(arr[i] + " "); 
   
         System.out.println(); 
+        System.out.print();
     } 
   
     public static void main(String args[]) 
@@ -33,5 +34,6 @@ class Hello1 {
         ob.sort(arr); 
   
         printArray(arr); 
+        System.out.print();
     } 
 }
