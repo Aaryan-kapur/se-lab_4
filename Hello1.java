@@ -32,7 +32,7 @@ class Hello1 {
   
         Hello1 ob = new Hello1(); 
         ob.sort(arr); 
-  
+        printArray(arr);
         printArray(arr); 
         System.out.print();
     } 
